@@ -1,0 +1,5 @@
+objetos:son los que tienen mucha informacion sobre una cosa especifica y pueden invocarse por medios de llaves {}
+propiedades:es la informacion que define al objeto
+metodos:son las funciones guardadas dentro de un objeto
+bucle for in:es una instruccion para repetir una variable especifica
+notacion puntos vs notacion corchetes:el primero es una opcion para tener los valores de un objeto y el segundo busca en especifico un valor
