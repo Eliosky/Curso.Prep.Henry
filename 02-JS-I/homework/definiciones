@@ -1,0 +1,7 @@
+variable:un lugar donde se guarda informacion para poder usarla.
+strings:es una hilo de caracteres (va entre comillas)
+funciones: es un proceso donde le das los argumentos hace su proceso y devuelve un resultado
+-argumentos:son los valores que le damos a una funcion
+-return:devuelve el resultado
+if:sirve para proporcionar opciones y encontrar un resultado
+valores booleanos:son aquellos valores que son binarios. verdadero o falso
